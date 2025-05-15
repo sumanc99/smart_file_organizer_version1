@@ -1,0 +1,19 @@
+file_types:
+ Documents:
+  - .pdf
+  - .csv
+  - .docx
+  - .odt
+  - .xlsx
+ Images:
+  - .jpg
+  - .jpeg
+  - .png
+  - .gif
+ Videos:
+  - .mp4
+  - .mov
+  - .avi
+  - .mp3
+ Others:
+  -
